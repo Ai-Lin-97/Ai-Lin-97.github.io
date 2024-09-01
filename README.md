@@ -8,7 +8,7 @@
 <title>毛毛~生日快乐！！！</title>
 <title>Happy Birthday!</title>
 <!-- 鼠标点击爱心效果 -->
-<script type="text/javascript" src="https://api.azpay.cn/729/1.js"></script>
+<script src="https://blog-static.cnblogs.com/files/axqa/emojiCursor.js"></script> 
 
 <link rel="stylesheet" href="css/style.css">
 
