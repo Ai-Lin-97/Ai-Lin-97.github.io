@@ -82,7 +82,7 @@
 
 <h2 style="text-align: center;">Happy Birthday ! 我的琳宝~~</h2>
 
-<span>🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉9.7♍💕♐12.06🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉</span>
+<span>🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉9.7♍💕♐12.06🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉</span>
 <div class="candle">
 <div id="flame" class="lit"></div>
 </div>
