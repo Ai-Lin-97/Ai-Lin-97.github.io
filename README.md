@@ -17,9 +17,8 @@
 
 
 <body>
-<audio controls autoplay="autoplay" loop="loop"><source src="../1.mp3" type="audio/mpeg" /></audio>
 
-
+<audio src="../kaixin/1.mp3" loop="loop" controls="controls" autoplay="autoplay"></audio>
 <audio src="../kaixin/想见你想见你想见你.mp3" loop="loop" controls="controls" autoplay="autoplay"></audio>
 
 <bokeh></bokeh>
