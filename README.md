@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -13,3 +14,80 @@
 <link rel="stylesheet" href="css/style.css">
 
 </head>
+
+
+<body>
+<audio controls autoplay="autoplay" loop="loop"><source src="1.mp3" type="audio/mpeg" /></audio>
+
+
+<audio src="../kaixin/花海.mp3" loop="loop" controls="controls" autoplay="autoplay"></audio>
+
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+<bokeh></bokeh>
+</body>
+
+
+<div class="mobile">最大化查看</div>
+<div class="pyro">
+<div class="before"></div>
+<div class="after"></div>
+</div>
+<h1>Happy every day</h1>
+<h2>Happy Birthday !毛毛</h2>
+<span>🎉</span>
+<div class="candle">
+<div id="flame" class="lit"></div>
+</div>
+
+<div class="cake"></div>
+<div class="plate"></div>
+
+</html>
+
