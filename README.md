@@ -80,8 +80,10 @@
 <div class="after"></div>
 </div>
 <h1>这是第8年了叭，今天是2176天8️⃣🙈！想见你 生日快乐鸭</h1>
-<h2>Happy Birthday ! 我的琳宝~~</h2>
-<span>🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉♍9.7💕12.06♐🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉</span>
+
+<h2 style="text-align: center;">Happy Birthday ! 我的琳宝~~</h2>
+
+<span>🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉9.7♍💕♐12.06🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉</span>
 <div class="candle">
 <div id="flame" class="lit"></div>
 </div>
