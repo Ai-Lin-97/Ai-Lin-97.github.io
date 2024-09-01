@@ -20,7 +20,7 @@
 <audio controls autoplay="autoplay" loop="loop"><source src="1.mp3" type="audio/mpeg" /></audio>
 
 
-<audio src="../kaixin/花海.mp3" loop="loop" controls="controls" autoplay="autoplay"></audio>
+<audio src="../kaixin/想见你想见你想见你.mp3" loop="loop" controls="controls" autoplay="autoplay"></audio>
 
 <bokeh></bokeh>
 <bokeh></bokeh>
@@ -74,14 +74,14 @@
 </body>
 
 
-<div class="mobile">最大化查看</div>
+<div class="mobile"></div>
 <div class="pyro">
 <div class="before"></div>
 <div class="after"></div>
 </div>
-<h1>Happy every day</h1>
-<h2>Happy Birthday !毛毛</h2>
-<span>🎉</span>
+<h1>这是第8年了叭，今天是2176天！想见你 生日快乐鸭</h1>
+<h2>Happy Birthday ! 琳宝</h2>
+<span>🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉9.7🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉</span>
 <div class="candle">
 <div id="flame" class="lit"></div>
 </div>
@@ -90,4 +90,3 @@
 <div class="plate"></div>
 
 </html>
-
