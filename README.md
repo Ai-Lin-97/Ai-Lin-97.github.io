@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en" >
 <head>
 <meta charset="UTF-8">
@@ -78,7 +78,7 @@
 <div class="before"></div>
 <div class="after"></div>
 </div>
-<h1>这是第8年了叭，今天是2176天8️⃣🙈！想见你 生日快乐鸭</h1>
+<h1>这是第6年了叭，今天是2176天8️⃣🙈！好想见你 生日快乐鸭</h1>
 
 <h2 style="text-align: center;">Happy Birthday ! 我的琳宝~~</h2>
 <h2 style="text-align: center;">9.7♍💕♐12.06</h2>
